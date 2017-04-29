@@ -1,0 +1,9 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+.price {
+    font-weight: 700;
+    color: crimson;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
